@@ -1,2 +1,2 @@
 mod 'nginx',
-git: 'git@github.com:choonming/puppet-nginx.git'
+git: 'git@github.com:/puppet-nginx.git'
