@@ -1,1 +1,5 @@
-modules/
+Output# Ignore all YAML files containing the `-values-` string.
+*-values-*.yaml
+
+# Do not ignore sealed YAML files.
+!*-sealed.yaml
